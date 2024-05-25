@@ -4,9 +4,6 @@ public class CalculateStudentGrade {
 	
 	public static StudentGrade calculateGrade(Student s)
 	{
-//		int mark=Integer.parseInt(s.getMarks());
-//		if(student.getM)
-//			return StudentGrade;
 		char grade;
 		if(s.getMarks()<=90)
 		{
